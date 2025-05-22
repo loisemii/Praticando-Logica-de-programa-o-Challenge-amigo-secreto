@@ -25,4 +25,4 @@ Link do repositório no GitHub
 Para questões técnicas, envie um email para: loisee.dev@gmail.com
 Para discussões sobre o projeto, utilize a seção de Issues no GitHub.
 Autores do projeto
-Seu Nome - Emilli Loise Moraes Campos
+Emilli Loise Moraes Campos
